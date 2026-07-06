@@ -145,13 +145,7 @@ The questions are intended for educational practice and revision only.
 
 ---
 
-## License
-
-No license has been selected yet.
-
-Unless a license is added, all rights are reserved by the repository owner.
-
----
+## Screenshots
 <p align="center">
   <img width="360" alt="Correct Answer Example" src="https://github.com/user-attachments/assets/46cdc4f2-e665-4f66-a901-ae446883d3ce">
   &nbsp;&nbsp;&nbsp;
