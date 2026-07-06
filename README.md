@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <a href="./CPSA-Tests.apk"><strong>Download Android APK</strong></a>
+  <a href="https://github.com/G4sul1n/CPSA-Tests/releases/download/v1.0.0/CPSA-Tests.apk"><strong>Download Android APK</strong></a>
   ·
   <a href="./index.html"><strong>Open HTML Version</strong></a>
 </p>
