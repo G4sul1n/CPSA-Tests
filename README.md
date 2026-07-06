@@ -31,7 +31,7 @@ It includes **over 3,000 practice questions** covering a wide range of CPSA-rele
 
 The app is available in two formats:
 
-- A ready-to-install **Android APK**
+- A ready-to-install **Android APK** (Latest Release)
 - A standalone **HTML version** that runs directly in the browser
 
 No login, no server, no subscription, and no Internet connection required.
@@ -56,7 +56,7 @@ This project is intended for learning, self-assessment, and exam preparation.
 ## Key Features
 
 - **3,000+ practice questions**
-- **Android APK included**
+- **Android APK included (Latest Release)**
 - **Standalone browser version included**
 - **No account required**
 - **Mobile-friendly quiz interface**
@@ -96,9 +96,7 @@ This makes it easy to track progress across repeated study sessions.
 
 Download:
 
-```text
-CPSA-Tests.apk
-```
+<a href="https://github.com/G4sul1n/CPSA-Tests/releases/download/v1.0.0/CPSA-Tests.apk"><strong>CPSA-Tests.apk</strong></a>
 
 Install it on your Android device and launch **CPSA Tests**.
 
