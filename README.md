@@ -5,6 +5,10 @@
 </p>
 
 <p align="center">
+  <img src="./cpsa.png" alt="CPSA Tests logo" width="140">
+</p>
+
+<p align="center">
   <a href="./CPSA-Tests.apk"><strong>Download Android APK</strong></a>
   ·
   <a href="./index.html"><strong>Open HTML Version</strong></a>
